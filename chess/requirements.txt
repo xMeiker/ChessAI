@@ -1,2 +1,2 @@
-pygame==3.12
+python==3.12
 pygame==2.5.2
