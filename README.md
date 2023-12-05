@@ -2,7 +2,7 @@
 *  Inspirado por **Eddie Sharick**
 * Editado y Actualizado por **xMeiker**
 * Nuevas Funciones y Menu Custom por **xMeiker**
-<p align="center"><img src="imagesBG/menuBK.jpg" width="1920px" height="360px" alt="title"></p>
+<p align="center"><img src="chess/imagesBG/menuBK.jpg" width="1920px" height="360px" alt="title"></p>
 
 ## Tabla de Contenido
 * [Info General](##general-info)
